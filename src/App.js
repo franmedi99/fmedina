@@ -37,6 +37,7 @@ function App() {
             <Route path="/Xp"><Xp></Xp></Route>
             <Route path="/start"><Inicio></Inicio></Route>
             <Route path="/fmedina"><Inicio></Inicio></Route>
+            <Route path="/fmedina/."><Inicio></Inicio></Route>
           </Switch>
         
     </div>
