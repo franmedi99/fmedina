@@ -29,13 +29,14 @@ function App() {
     <div >
       
     <Switch>
-           
+            <Route path="/" exact><Inicio></Inicio></Route>
             <Route path="/Contact_me"><Contactme/></Route>
             <Route path="/contacto"><Contacto></Contacto></Route>
             <Route path="/proyects"><Proyectos></Proyectos></Route>
             <Route path="/languages"><Lenguajes></Lenguajes></Route>
             <Route path="/Xp"><Xp></Xp></Route>
             <Route path="/start"><Inicio></Inicio></Route>
+           
           </Switch>
         
     </div>
