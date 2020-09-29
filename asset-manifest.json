@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fmedina/static/css/main.6d2c6673.chunk.css",
-    "main.js": "/fmedina/static/js/main.1d1a30ad.chunk.js",
-    "main.js.map": "/fmedina/static/js/main.1d1a30ad.chunk.js.map",
+    "main.js": "/fmedina/static/js/main.a5c92daa.chunk.js",
+    "main.js.map": "/fmedina/static/js/main.a5c92daa.chunk.js.map",
     "runtime-main.js": "/fmedina/static/js/runtime-main.7a0bebf6.js",
     "runtime-main.js.map": "/fmedina/static/js/runtime-main.7a0bebf6.js.map",
     "static/js/2.2dcc7a0e.chunk.js": "/fmedina/static/js/2.2dcc7a0e.chunk.js",
     "static/js/2.2dcc7a0e.chunk.js.map": "/fmedina/static/js/2.2dcc7a0e.chunk.js.map",
     "index.html": "/fmedina/index.html",
-    "precache-manifest.3558e95580cbc293b5977cdd54f02a0a.js": "/fmedina/precache-manifest.3558e95580cbc293b5977cdd54f02a0a.js",
+    "precache-manifest.3bd7eeffaccfa1def3917a1d890be636.js": "/fmedina/precache-manifest.3bd7eeffaccfa1def3917a1d890be636.js",
     "service-worker.js": "/fmedina/service-worker.js",
     "static/css/main.6d2c6673.chunk.css.map": "/fmedina/static/css/main.6d2c6673.chunk.css.map",
     "static/js/2.2dcc7a0e.chunk.js.LICENSE.txt": "/fmedina/static/js/2.2dcc7a0e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7a0bebf6.js",
     "static/js/2.2dcc7a0e.chunk.js",
     "static/css/main.6d2c6673.chunk.css",
-    "static/js/main.1d1a30ad.chunk.js"
+    "static/js/main.a5c92daa.chunk.js"
   ]
 }
