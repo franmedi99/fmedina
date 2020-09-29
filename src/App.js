@@ -36,7 +36,7 @@ function App() {
             <Route path="/languages"><Lenguajes></Lenguajes></Route>
             <Route path="/Xp"><Xp></Xp></Route>
             <Route path="/start"><Inicio></Inicio></Route>
-           
+            <Route path="/fmedina"><Inicio></Inicio></Route>
           </Switch>
         
     </div>
