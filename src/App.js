@@ -35,7 +35,7 @@ function App() {
             <Route path="/proyects"><Proyectos></Proyectos></Route>
             <Route path="/languages"><Lenguajes></Lenguajes></Route>
             <Route path="/Xp"><Xp></Xp></Route>
-            <Route path="/" exact><Inicio></Inicio></Route>
+            <Route path="/start"><Inicio></Inicio></Route>
           </Switch>
         
     </div>
