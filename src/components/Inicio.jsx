@@ -15,7 +15,7 @@ const Inicio = () => {
         <p className="mb-5">
 
         <li>
-            Mi meta a corto plazo es poder aprender sobre las empresas y sus metodologías con la cual abordan problemas que parecen no tener solución, buscar nuevas empresas con las que pueda en un futuro poder trabajar.
+            A corto plazo es poder aprender sobre las empresas y sus metodologías con la cual abordan problemas que parecen no tener solución, buscar nuevas empresas con las que pueda en un futuro poder trabajar.
         </li>
         
         <li>
@@ -33,7 +33,7 @@ const Inicio = () => {
         <h3 className="text-center mb-4">Talentos</h3>
         <p >
         <li>
-         Entre mis talentos siento que cumplo con las cosas que me propongo o me piden que haga, no tengo miedo de hablar frente a un grupo que me pueda criticar.
+         Siento que cumplo con las cosas que me propongo o me piden que haga, no tengo miedo de hablar frente a un grupo que me pueda criticar.
         </li>
 
         <li>

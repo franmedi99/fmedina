@@ -63,13 +63,6 @@ const Contact_me = props => {
 
 
 
-            <div className="carta">
-            <i className="fa fa-facebook icon" aria-hidden="true"></i>
-            <div className="carta-content">
-                <h3>Facebook</h3>
-                <span><a href="https://www.facebook.com/profile.php?id=100008188352302"  style={{fontSize: "14.6px"}}>Francisco J Medina</a></span>
-            </div>
-            </div>
 
 
 
