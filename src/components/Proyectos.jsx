@@ -61,7 +61,7 @@ const Proyectos = () => {
 
     <div className="col-sm-4 mb-4">
     <div className="card">
-  <img src="https://res.cloudinary.com/franciscorp/image/upload/v1601389048/proclean_scn2ro.png" className="card-img-top" alt="..." />
+  <img src="https://res.cloudinary.com/franciscorp/image/upload/v1610220465/proclean_kw0fif.png" className="card-img-top" alt="..." />
   <div className="card-body">
     <h5 className="card-title">Proclean</h5>
     <p className="card-text">App diseñada a medida para PROCLEAN, en donde se busca poder agilizar el trabajo, esta app fue creada con NodeJS, handlebars y MongoDB</p>
