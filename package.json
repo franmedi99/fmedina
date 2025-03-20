@@ -2,7 +2,7 @@
   "name": "Francisco-Medina",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://franmedi99.github.io/",
+  "homepage": "https://franmedi99.github.io/fmedina/",
   "dependencies": {
     "@svgr/webpack": "^8.1.0",
     "@testing-library/jest-dom": "^5.17.0",
