@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.32d9d9ab.css",
-    "main.js": "/static/js/main.08bf1ba7.js",
-    "static/media/me.jpeg": "/static/media/me.7da1db0dcf22643d48ed.jpeg",
-    "static/media/sql.png": "/static/media/sql.9bf19a866df21a56ea27.png",
-    "static/media/react.png": "/static/media/react.a077fb46649bd39aef05.png",
-    "index.html": "/index.html",
-    "main.32d9d9ab.css.map": "/static/css/main.32d9d9ab.css.map",
-    "main.08bf1ba7.js.map": "/static/js/main.08bf1ba7.js.map"
+    "main.css": "/fmedina/static/css/main.32d9d9ab.css",
+    "main.js": "/fmedina/static/js/main.d3b08ed7.js",
+    "static/media/me.jpeg": "/fmedina/static/media/me.7da1db0dcf22643d48ed.jpeg",
+    "static/media/sql.png": "/fmedina/static/media/sql.9bf19a866df21a56ea27.png",
+    "static/media/react.png": "/fmedina/static/media/react.a077fb46649bd39aef05.png",
+    "index.html": "/fmedina/index.html",
+    "main.32d9d9ab.css.map": "/fmedina/static/css/main.32d9d9ab.css.map",
+    "main.d3b08ed7.js.map": "/fmedina/static/js/main.d3b08ed7.js.map"
   },
   "entrypoints": [
     "static/css/main.32d9d9ab.css",
-    "static/js/main.08bf1ba7.js"
+    "static/js/main.d3b08ed7.js"
   ]
 }
