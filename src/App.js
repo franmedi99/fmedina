@@ -14,7 +14,7 @@ function App() {
       <div className="ml-2 mr-2">
         <Navbar />
           <Routes>
-            <Route path="/" element={<Index />} />
+            <Route path="/fmedina" element={<Index />} />
             <Route path="/Experience" element={<Experience />} />
             <Route path="/ContactMe" element={<Contactme />} />
           </Routes>
