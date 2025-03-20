@@ -5,8 +5,8 @@ const Footer = () => {
       <div>
         <br/>
           <footer>
-        <div className="footer border-top ">
-        <h6 className="text-center ">Sitio web Creado por Francisco Medina.</h6>
+        <div className="footer ">
+        <p className="text-center ">©Francisco Medina.</p>
         </div>
           </footer>
       </div>

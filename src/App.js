@@ -1,48 +1,25 @@
 import React from 'react';
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-}from "react-router-dom";
-import Inicio from './components/Inicio';
-import Contacto from './components/Contact_me';
-
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Index from './components/Index';
 import Navbar from './components/Navbar';
-import Contactme from './components/Contact_me';
-import Xp from './components/Xp';
-import Lenguajes from './components/Lenguajes';
-import Proyectos from './components/Proyectos';
+import Contactme from './components/ContactMe';
+import Experience from './components/Experience';
 import Footer from './components/Footer';
 
-
-
-
-
-
-
+import './components/assets/css/index.css';
+import './components/assets/js/navbar.js';
 function App() {
   return (
     <Router>
-    <div className="ml-2 mr-2">
-   
-    <Navbar/>
-    <div >
-      
-    <Switch>
-            <Route path="/" exact><Inicio></Inicio></Route>
-            <Route path="/Contact_me"><Contactme/></Route>
-            <Route path="/contacto"><Contacto></Contacto></Route>
-            <Route path="/proyects"><Proyectos></Proyectos></Route>
-            <Route path="/languages"><Lenguajes></Lenguajes></Route>
-            <Route path="/Xp"><Xp></Xp></Route>
-            <Route path="/start"><Inicio></Inicio></Route>
-            <Route path="/fmedina"><Inicio></Inicio></Route>
-            <Route path="/fmedina/."><Inicio></Inicio></Route>
-          </Switch>
-        
-    </div>
-    </div>
-    <Footer/>
+      <div className="ml-2 mr-2">
+        <Navbar />
+          <Routes>
+            <Route path="/" element={<Index />} />
+            <Route path="/Experience" element={<Experience />} />
+            <Route path="/ContactMe" element={<Contactme />} />
+          </Routes>
+      </div>
+      <Footer />
     </Router>
   );
 }
