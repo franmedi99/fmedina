@@ -16,7 +16,7 @@ const Navbar = () => {
 				</div>
 
 				<div className="categorias" id="categorias">
-					<Link className="activo" to="/">Sobre mí</Link>
+					<Link className="activo" to="/fmedina">Sobre mí</Link>
 					<Link to="/Experience">Experiencia & Proyectos</Link>
 					<Link to="/contactMe">Contacto</Link>
 
