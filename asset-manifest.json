@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/fmedina/static/css/main.75ecf78f.chunk.css",
-    "main.js": "/fmedina/static/js/main.97aa6d2e.chunk.js",
-    "main.js.map": "/fmedina/static/js/main.97aa6d2e.chunk.js.map",
-    "runtime-main.js": "/fmedina/static/js/runtime-main.86418405.js",
-    "runtime-main.js.map": "/fmedina/static/js/runtime-main.86418405.js.map",
-    "static/js/2.ea34266e.chunk.js": "/fmedina/static/js/2.ea34266e.chunk.js",
-    "static/js/2.ea34266e.chunk.js.map": "/fmedina/static/js/2.ea34266e.chunk.js.map",
-    "index.html": "/fmedina/index.html",
-    "static/css/main.75ecf78f.chunk.css.map": "/fmedina/static/css/main.75ecf78f.chunk.css.map",
-    "static/js/2.ea34266e.chunk.js.LICENSE.txt": "/fmedina/static/js/2.ea34266e.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.32d9d9ab.css",
+    "main.js": "/static/js/main.08bf1ba7.js",
+    "static/media/me.jpeg": "/static/media/me.7da1db0dcf22643d48ed.jpeg",
+    "static/media/sql.png": "/static/media/sql.9bf19a866df21a56ea27.png",
+    "static/media/react.png": "/static/media/react.a077fb46649bd39aef05.png",
+    "index.html": "/index.html",
+    "main.32d9d9ab.css.map": "/static/css/main.32d9d9ab.css.map",
+    "main.08bf1ba7.js.map": "/static/js/main.08bf1ba7.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.86418405.js",
-    "static/js/2.ea34266e.chunk.js",
-    "static/css/main.75ecf78f.chunk.css",
-    "static/js/main.97aa6d2e.chunk.js"
+    "static/css/main.32d9d9ab.css",
+    "static/js/main.08bf1ba7.js"
   ]
 }
